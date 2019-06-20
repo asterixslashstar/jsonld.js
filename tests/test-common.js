@@ -93,6 +93,7 @@ const TEST_TYPES = {
       // FIXME
       idRegex: [
         // list of lists
+        /**
         /expand-manifest.jsonld#tli01$/,
         /expand-manifest.jsonld#tli02$/,
         /expand-manifest.jsonld#tli03$/,
@@ -103,6 +104,7 @@ const TEST_TYPES = {
         /expand-manifest.jsonld#tli08$/,
         /expand-manifest.jsonld#tli09$/,
         /expand-manifest.jsonld#tli10$/,
+        */
         // mode
         /expand-manifest.jsonld#tp001$/,
         /expand-manifest.jsonld#tp002$/,
